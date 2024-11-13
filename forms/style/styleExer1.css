@@ -1,0 +1,14 @@
+form{
+    text-align: center;
+    align-items: center;
+}
+
+/* // function __construct($nome, $idade)
+    // {
+    //     $this->nome = $nome;
+    //     $this->idade = $idade;
+    // }
+    // function exibirInfo()
+    // {
+    //     return "nome: $this-> nome, idade:$this->idade";
+    // } */
